@@ -3,13 +3,14 @@
     "name": "mobilecopa",
     "slug": "mobilecopa",
     "version": "1.0.0",
+    "scheme": "mobilecopa",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
